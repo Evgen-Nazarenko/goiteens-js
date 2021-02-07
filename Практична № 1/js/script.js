@@ -28,11 +28,11 @@ console.log(typeof txt);
 
 //     2
 
-let num1 = 250;
-let num2 = 250;
-let num3 = 250;
-let num4 = 250;
-let num5 = 250;
+let num1 = 255;
+let num2 = 255;
+let num3 = 255;
+let num4 = 255;
+let num5 = 255;
 
 const str1 = 'text';
 const str2 = 'text';
