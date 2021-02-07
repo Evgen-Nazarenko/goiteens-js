@@ -1,11 +1,10 @@
-'use strict';
-
-let c = 10;
+'use strict'
+let c = 10
 
 while (c < 11) {
-  
 
-    console.log(` ${c}`);
+
+    console.log(` ${0}`);
     c += 1;
 }
 
