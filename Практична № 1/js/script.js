@@ -14,7 +14,7 @@ const num = 123;
 
 console.log(typeof num);
 
-// boolean
+//  boolean
 
 const flag = true;
 
