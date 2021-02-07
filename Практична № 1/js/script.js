@@ -1,5 +1,4 @@
-'use strict';
-
+'use strict'
 
 //     1
 
@@ -15,7 +14,7 @@ const num = 123;
 
 console.log(typeof num);
 
-//  boolean
+// boolean
 
 const flag = true;
 
