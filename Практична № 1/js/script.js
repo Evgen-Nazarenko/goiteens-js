@@ -26,7 +26,7 @@ const txt = 'true';
 
 console.log(typeof txt);
 
-//     2
+//    2
 
 let num1 = 255;
 let num2 = 255;
