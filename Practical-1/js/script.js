@@ -28,7 +28,6 @@ const txt = 'true';
 console.log(typeof txt);
 
 //    2
-
 let num1 = 255;
 let num2 = 255;
 let num3 = 255;
