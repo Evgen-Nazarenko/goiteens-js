@@ -66,7 +66,7 @@ let fullName = `${w1} ${w2} ${w3}`;
 
 const w4 = 'Victor';
 
-console.log(fullName + ` ${w4}`);
+console.log(fullName + w4);
 
 console.log('-------------');
 
