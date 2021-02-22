@@ -56,9 +56,9 @@ console.log('------------------');
 
 let num1 = Math.random() * (5 - 1) + 1;
 
-//console.log(num1);
 
-if ((num1 < 5) && (num1 > 1)){
+
+if ((num1 <= 5) && (num1 >= 1)){
     console.log(num1);
 }
 
@@ -89,6 +89,6 @@ switch (lang) {
         break;
 
     default:
-        console.log('Вашої мови немає в списку');
+        console.log('Вашої мови немає в списку!!!!!');
 }
 
